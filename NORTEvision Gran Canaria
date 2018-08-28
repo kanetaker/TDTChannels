@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,NORTEvision
+#EXTVLCOPT:program=109
+#EXTVLCOPT:file-caching=300
+http://nortevision.dyndns.org:8001/1:0:1:6D:24:3138:EEEE0000:0:0:0:
